@@ -1,3 +1,49 @@
+# class02
+
+Number and name of feature: 
+
+Estimate of time needed to complete: 10 hours
+
+Start time: 3 pm
+
+Finish time: 3 
+
+Actual time needed to complete: 1 day
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
