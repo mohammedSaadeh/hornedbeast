@@ -6,7 +6,7 @@ Estimate of time needed to complete: 10 hours
 
 Start time: 3 pm
 
-Finish time: 3 
+Finish time: 3 pm
 
 Actual time needed to complete: 1 day
 
