@@ -1,10 +1,8 @@
 import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
-// import Button from 'react-bootstrap/Button';
-// import Card from 'react-bootstrap/Card';
+
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
-// import Row from 'react-bootstrap/Row';
+
 
 class HornedBeast extends React.Component{
 
@@ -22,6 +20,7 @@ class HornedBeast extends React.Component{
     this.setState({
         numberOfVotes : this.state.numberOfVotes +1
     })
+    this.props.modalFunction(this.props.title);
 
    }
 

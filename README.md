@@ -1,57 +1,12 @@
-# class01
+Number and name of feature: Using modal from bootstrap
 
--Adding main and link it to HornedBeasts
+Estimate of time needed to complete: 7 hours
 
--Adding Footer
+Start time: 2pm
 
--Adding Header
+Finish time: 1 am
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Actual time needed to complete: 11 hours
 
 
 
