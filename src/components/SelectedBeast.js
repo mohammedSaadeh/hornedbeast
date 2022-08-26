@@ -15,7 +15,7 @@ class SelectedBest extends React.Component {
               <Modal.Title>{this.props.selBeast.title}</Modal.Title>
             </Modal.Header>
             <Modal.Body>
-              <img src={this.props.selBeast.image_url} style={{width:'400px'}}/>
+              <img src={this.props.selBeast.image_url} alt={this.props.selBeast.title} style={{width:'400px'}}/>
               <p>{this.props.selBeast.description}</p>
             </Modal.Body>
             <Modal.Footer>
