@@ -1,5 +1,4 @@
 import React from "react";
-
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
 
@@ -12,7 +11,7 @@ class HornedBeast extends React.Component{
         this.state={
             numberOfVotes : 0,
             // otherVariable : 0 if i wanted to add another one
-        }
+        } 
    }
 
 

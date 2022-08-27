@@ -1,4 +1,4 @@
-Number and name of feature: Using modal from bootstrap
+Number and name of feature: Using form from bootstrap
 
 Estimate of time needed to complete: 7 hours
 
