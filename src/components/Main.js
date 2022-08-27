@@ -8,9 +8,6 @@ import Row from 'react-bootstrap/Row';
 
 
 
-
-
-
 class Main extends React.Component {
     getData= Data.map(element =>
         <HornedBeast key={element._id} title={element.title} img={element.image_url} description={element.description} modalFunction={this.props.modalFunction}/>
